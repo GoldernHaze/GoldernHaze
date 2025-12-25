@@ -52,9 +52,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GoldernHaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldernHaze&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoldernHaze&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
 ---
 
