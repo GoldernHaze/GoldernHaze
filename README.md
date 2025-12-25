@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm GoldernHaze</h1>
-<h3 align="center">ECE Student @ LNMIIT | Web & Python Developer | Building with AI 🚀</h3>
+<h3 align="center">ECE Student | Web & Python Developer | Building with AI 🚀</h3>
 
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 3rd Semester **ECE student at LNMIIT**
+- 🎓 3rd Semester **ECE student*
 - 💡 I build **projects with the help of AI (ChatGPT, tools, etc.)**
 - 🌐 I enjoy creating **web apps using HTML, CSS, JS, Flask, Python**
 - 🧠 Strong in **DSA**, know **C**, learning **C++**
@@ -35,7 +35,7 @@
 ### 🚀 Featured Projects
 
 #### 📁 File Explorer
-- A file management system built using **Python & Flask**
+- A file management system built using **Html & Python Flask**
 - Clean UI and backend logic  
 🔗 https://github.com/GoldernHaze/File-Explorer
 
@@ -46,7 +46,7 @@
 
 #### 🌐 Bhayankar Portfolio
 - Personal portfolio website
-- Built using **HTML, CSS, JavaScript**
+- Built using **HTML, CSS, JavaScript, TypeScript**
 - Focused on UI & presentation  
 🔗 https://github.com/GoldernHaze/bhayankar-portfolio
 
