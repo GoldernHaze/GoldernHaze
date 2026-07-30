@@ -35,7 +35,7 @@
 ### 🚀 Featured Projects
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ## 📁 File Explorer
 A modern **web-based file & media explorer** built with **Python** and **Flask**.
@@ -53,18 +53,16 @@ A modern **web-based file & media explorer** built with **Python** and **Flask**
 View Repository →
 </a>
 </td>
-<td width="60%" align="center">
+<td width="55%" align="center">
 <a href="https://github.com/GoldernHaze/File-Explorer">
 <img src="aa/gg.png" width="100%" alt="File Explorer Preview" href="https://github.com/GoldernHaze/File-Explorer">
 </a>
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ## 🛰️ CubeSat Packet Pipeline
 A **FreeRTOS-based packet handling pipeline** for an **S-band CubeSat transmitter**, developed during the **SpaceLab Summer Internship**.
@@ -92,7 +90,7 @@ A **FreeRTOS-based packet handling pipeline** for an **S-band CubeSat transmitte
 View Repository →
 </a>
 </td>
-<td width="60%" align="center">
+<td width="55%" align="center">
 
 <a href="https://github.com/GoldernHaze/CubeSat-India">
 <img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline" href="https://github.com/GoldernHaze/CubeSat-India">
