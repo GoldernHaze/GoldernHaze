@@ -33,7 +33,9 @@
 ---
 
 ### 🚀 Featured Projects
-
+<p align="center">
+  <img src="aa/gg.png" width="100%">
+</p>
 #### 📁 File Explorer
 - A file management system built using **Html & Python Flask**
 - Clean UI and backend logic  
