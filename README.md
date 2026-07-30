@@ -33,13 +33,68 @@
 ---
 
 ### 🚀 Featured Projects
-<p align="center">
-  <img src="aa/gg.png" width="100%">
-</p>
-#### 📁 File Explorer
-- A file management system built using **Html & Python Flask**
-- Clean UI and backend logic  
-🔗 https://github.com/GoldernHaze/File-Explorer
+<table>
+<tr>
+<td width="40%" valign="top">
+
+## 📁 File Explorer
+A modern **web-based file & media explorer** built with **Python** and **Flask**.
+### ✨ Features
+- 📂 Browse folders & files
+- 🎥 Built-in video player
+- 📄 PDF Viewer
+- 🔍 Global Search
+- 📤 DropX Quick Share
+- ⚙️ Theme Customization
+- ✏️ Text Editor
+**Tech Stack**
+`Python` `Flask` `HTML` `CSS` `JavaScript`
+<a href="https://github.com/GoldernHaze/File-Explorer">
+View Repository →
+</a>
+</td>
+<td width="60%" align="center">
+
+<img src="aa/gg.png" width="100%" alt="File Explorer Preview">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="40%" valign="top">
+
+## 🛰️ CubeSat Packet Pipeline
+A **FreeRTOS-based packet handling pipeline** for an **S-band CubeSat transmitter**, developed during the **SpaceLab Summer Internship**.
+### ✨ Features
+- 📦 Payload Fragmentation
+- 📡 NGHam Frame Encoding
+- 🔄 FIFO Queue Management
+- 📊 Real-time Telemetry
+- ⚡ FreeRTOS Multi-tasking
+- 🛡️ CRC16 + Reed-Solomon FEC
+- 🧪 Linux POSIX Simulator
+**Tech Stack**
+`C` `FreeRTOS` `NGHam` `Embedded Systems` `Linux`
+**Developed by**
+- Hardik Singhal
+- Shivansh Gupta
+- Amrit Mishra
+**Mentor:** Lucas Ryan
+<a href="https://github.com/GoldernHaze/CubeSat-India">
+View Repository →
+</a>
+</td>
+<td width="55%" align="center">
+
+<img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline">
+
+</td>
+
+</tr>
+</table>
 
 #### 💬 Chat App Test
 - Real-time chat experimentation using **web technologies**
