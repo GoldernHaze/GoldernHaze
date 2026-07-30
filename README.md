@@ -55,7 +55,7 @@ View Repository →
 </td>
 <td width="60%" align="center">
 
-<img src="aa/gg.png" width="100%" alt="File Explorer Preview">
+<img src="aa/gg.png" width="100%" alt="File Explorer Preview" href="https://github.com/GoldernHaze/File-Explorer">
 
 </td>
 </tr>
@@ -76,20 +76,25 @@ A **FreeRTOS-based packet handling pipeline** for an **S-band CubeSat transmitte
 - ⚡ FreeRTOS Multi-tasking
 - 🛡️ CRC16 + Reed-Solomon FEC
 - 🧪 Linux POSIX Simulator
+  
 **Tech Stack**
+
 `C` `FreeRTOS` `NGHam` `Embedded Systems` `Linux`
+
 **Developed by**
 - Hardik Singhal
 - Shivansh Gupta
 - Amrit Mishra
+  
 **Mentor:** Lucas Ryan
+
 <a href="https://github.com/GoldernHaze/CubeSat-India">
 View Repository →
 </a>
 </td>
-<td width="55%" align="center">
+<td width="60%" align="center">
 
-<img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline">
+<img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline" href="https://github.com/GoldernHaze/CubeSat-India">
 
 </td>
 
