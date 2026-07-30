@@ -54,9 +54,9 @@ View Repository →
 </a>
 </td>
 <td width="60%" align="center">
-
+<a href="https://github.com/GoldernHaze/File-Explorer">
 <img src="aa/gg.png" width="100%" alt="File Explorer Preview" href="https://github.com/GoldernHaze/File-Explorer">
-
+</a>
 </td>
 </tr>
 </table>
@@ -94,8 +94,9 @@ View Repository →
 </td>
 <td width="60%" align="center">
 
+<a href="https://github.com/GoldernHaze/CubeSat-India">
 <img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline" href="https://github.com/GoldernHaze/CubeSat-India">
-
+</a>
 </td>
 
 </tr>
