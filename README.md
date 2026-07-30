@@ -93,7 +93,7 @@ View Repository →
 <td width="55%" align="center">
 
 <a href="https://github.com/GoldernHaze/CubeSat-India">
-<img src="aa/image.jpeg" width="100%" alt="CubeSat Packet Pipeline" href="https://github.com/GoldernHaze/CubeSat-India">
+<img src="aa/cubesatindia.png" width="100%" alt="CubeSat Packet Pipeline" href="https://github.com/GoldernHaze/CubeSat-India">
 </a>
 </td>
 
