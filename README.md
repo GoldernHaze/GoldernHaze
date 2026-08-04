@@ -51,6 +51,8 @@ A modern **web-based file & media explorer** built with **Python** and **Flask**
 `Python` `Flask` `HTML` `CSS` `JavaScript`
 <a href="https://github.com/GoldernHaze/File-Explorer">
 View Repository →
+</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://goldernhaze.github.io/File-Explorer/">
+🌐 Web Site →
 </a>
 </td>
 <td width="55%" align="center">
@@ -88,6 +90,10 @@ A **FreeRTOS-based packet handling pipeline** for an **S-band CubeSat transmitte
 
 <a href="https://github.com/GoldernHaze/CubeSat-India">
 View Repository →
+</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://goldernhaze.github.io/CubeSat-India/">
+🌐 Live Site →
 </a>
 </td>
 <td width="55%" align="center">
