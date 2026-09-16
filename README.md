@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 3rd Semester **ECE student*
+- 🎓 **ECE student at LNMIIT* 
 - 💡 I build **projects with the help of AI (ChatGPT, tools, etc.)**
 - 🌐 I enjoy creating **web apps using HTML, CSS, JS, Flask, Python**
 - 🧠 Strong in **DSA**, know **C**, learning **C++**
